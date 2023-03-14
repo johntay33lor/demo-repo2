@@ -1,0 +1,3 @@
+Small Group GIT Project
+
+git commmit
